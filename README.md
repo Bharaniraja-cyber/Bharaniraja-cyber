@@ -19,6 +19,7 @@
 - ⚙️ Building end-to-end apps with **MERN Stack** + intelligent systems with **Python & ML**
 - 🌱 Currently exploring **NLP, model deployment & scalable architectures**
 - 📬 **bharaniraja21@gmail.com**
+- 📬 portfolio **https://bharaniraja-cyber.github.io/Portfolio-simple/**
 
 ---
 
